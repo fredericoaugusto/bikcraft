@@ -54,7 +54,7 @@
     background-color: var(--cor-10);
   }
 
-  .header-menu a::after {
+  .header a::after {
     display: none;
   }
 }
